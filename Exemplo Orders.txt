@@ -1,0 +1,32 @@
+[
+    {
+        "orderID": 10248,
+        "customerName": "Maria de Fátima",
+        "shipperCity": "Recife",
+        "isShipped": true
+    },
+    {
+        "orderID": 10249,
+        "customerName": "João Campói",
+        "shipperCity": "Florianópolis",
+        "isShipped": false
+    },
+    {
+        "orderID": 10250,
+        "customerName": "José Roberto",
+        "shipperCity": "Campina Grande",
+        "isShipped": false
+    },
+    {
+        "orderID": 10251,
+        "customerName": "Maria Macedo",
+        "shipperCity": "Rondonópolis",
+        "isShipped": false
+    },
+    {
+        "orderID": 10252,
+        "customerName": "Marcos Akiba",
+        "shipperCity": "São Pedro",
+        "isShipped": true
+    }
+]
